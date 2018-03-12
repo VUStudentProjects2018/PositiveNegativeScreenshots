@@ -1,1 +1,1 @@
-## Positive and negative categorized screenshot, not yet splitted in testing and training set.
+## Positive and negative categorized screenshot, divided in a training and a testing set.
